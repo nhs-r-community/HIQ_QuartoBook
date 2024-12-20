@@ -18,7 +18,7 @@ It is proposed that this definition is now taken up for health inequality report
 
 Although one definition would not necessarily be the best variable for describing residual variation across all disease states/outcomes, or indeed in all cancer sites, the paper posits that standardisation of approach to allow for cross-project comparisons is of greater use in public health than many different coastal definitions being applied in other scenarios.
 
-Other approaches to defining coastal geographies for epidemiological or social sciences applications have been investigated or are ongoing, e.g.
+Other approaches to defining coastal geographies for epidemiological or social sciences applications have been investigated or are ongoing, for example
 
 -   [ESRC University of Plymouth study](https://www.plymouth.ac.uk/research/coastal-communities/towards-a-coastal-definition/esrc-funded-project)
 
