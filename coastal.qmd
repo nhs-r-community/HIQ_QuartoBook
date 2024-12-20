@@ -1,0 +1,27 @@
+---
+title: "Coastal Inequality"
+---
+
+## Why define coastal? Surely that's easy?!
+
+Worse health has been experienced by communities living along the UK's coastline for decades. There are many posited causes, including an older population, worse access to healthcare resources, higher rates of unemployment or insecure employment, and many more. Coastal health inequality was given prominence in NHS England's health inequalities reduction plans by being included in their [Core20PLUS5](https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-programme/core20plus5/) approach. Investigations and reporting into coastal health inequalities in the UK have been slow, due in part to a lack of an agreed definition of 'coastal'. Previous definitions have either been opaque, overly simplistic or complicated, or have only been applicable to geographies that are large enough to mask some of the coastal inequality through combining with better-off inland areas.
+
+## What is the (proposed) solution?
+
+In 2024 the National Disease Registration Service ([NDRS](https://digital.nhs.uk/ndrs/our-work/ncras-work-programme), NHS England) published a [paper](https://doi.org/10.1136/bmjph-2024-001067) designed to fill this gap, by providing a definition of coastal based on an empirical pragmatic modelling approach. This definition ("G_25_5") was the 'best' performing candidate variable across a range of cancer-related outcomes. 'Best' here was defined as explaining the largest share of residual variation in cancer outcomes after adjustment for LSOA level age group, gender, ethnicity and deprivation (IMD quintile).
+
+The G_25_5 variable defines LSOAs as 'coastal' if they have 25% or more of their postcode centroids within 5km of the English coastline. NDRS aims to make these data available to the public when requesting data from them through [DARS](https://digital.nhs.uk/services/data-access-request-service-dars) service. Additionally, the 2011 and 2021 LSOA coastal definitions are provided in the online supplement of the manuscript.
+
+It is proposed that this definition is now taken up for health inequality reporting where breakdowns by coastal/inland may of interest to highlight discrepancies in provision, opportunity or outcomes. The [code used in the manuscript](https://github.com/DCEW/Coastal_BMJPH) is open source to support dissemination and collaboration.
+
+## Caveats...
+
+Although one definition would not necessarily be the best variable for describing residual variation across all disease states/outcomes, or indeed in all cancer sites, the paper posits that standardisation of approach to allow for cross-project comparisons is of greater use in public health than many different coastal definitions being applied in other scenarios.
+
+Other approaches to defining coastal geographies for epidemiological or social sciences applications have been investigated or are ongoing, e.g.
+
+-   [ESRC University of Plymouth study](https://www.plymouth.ac.uk/research/coastal-communities/towards-a-coastal-definition/esrc-funded-project)
+
+-   [ONS Built-up Areas](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/townsandcitiescharacteristicsofbuiltupareasenglandandwales/census2021)
+
+Future work is needed to harmonise across definitions and to extend analyses to the devolved nations. Please see our publication for further explanation and other relevant citations.
