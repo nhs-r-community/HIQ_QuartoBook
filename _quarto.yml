@@ -26,6 +26,7 @@ book:
     - imd.qmd
     - idd-aut.qmd
     - mapping.qmd
+    - coastal.qmd
     - nhs-number.qmd
     - peer-groups.qmd
     - public-health-profiles.qmd
